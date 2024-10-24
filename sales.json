@@ -1,0 +1,86 @@
+[
+  {
+    "transaction_id": "TX1001",
+    "store_location": "Downtown",
+    "items_sold": [
+      {
+        "item": "Apples",
+        "quantity": 10,
+        "price_per_unit": 0.3
+      },
+      {
+        "item": "Bananas",
+        "quantity": 5,
+        "price_per_unit": 0.5
+      }
+    ]
+  },
+  {
+    "transaction_id": "TX1002",
+    "store_location": "Uptown",
+    "items_sold": [
+      {
+        "item": "Oranges",
+        "quantity": 20,
+        "price_per_unit": 0.4
+      },
+      {
+        "item": "Grapes",
+        "quantity": 2,
+        "price_per_unit": 2
+      },
+      {
+        "item": "Carrots",
+        "quantity": 10,
+        "price_per_unit": 0.2
+      },
+      {
+        "item": "Apples",
+        "quantity": 5,
+        "price_per_unit": 0.3
+      }
+    ]
+  },
+  {
+    "transaction_id": "TX1003",
+    "store_location": "Midtown",
+    "items_sold": [
+      {
+        "item": "Carrots",
+        "quantity": 15,
+        "price_per_unit": 0.2
+      },
+      {
+        "item": "Apples",
+        "quantity": 20,
+        "price_per_unit": 0.3
+      },
+      {
+        "item": "Lettuce",
+        "quantity": 10,
+        "price_per_unit": 0.6
+      }
+    ]
+  },
+  {
+    "transaction_id": "TX1004",
+    "store_location": "Downtown",
+    "items_sold": [
+      {
+        "item": "Tomatoes",
+        "quantity": 8,
+        "price_per_unit": 0.5
+      },
+      {
+        "item": "Bananas",
+        "quantity": 9,
+        "price_per_unit": 0.5
+      },
+      {
+        "item": "Cucumbers",
+        "quantity": 10,
+        "price_per_unit": 0.3
+      }
+    ]
+  }
+]
